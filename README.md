@@ -3,4 +3,4 @@ that
 
 is
 
-smart
+nice
